@@ -15,6 +15,7 @@ This project proposes a “2D Gaming System” to keep track off the interactive
 - Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students to register or sign in without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
 - Buttons and Gestures for the control action of the game
+
 <b> Application Link & Future Scope : </b>
 
 The app is currently in the Alpha testing phase within our college developer groups, You can access the app : [https://drive.google.com/file/d/1_D4YqXDDYr0c_Shmcwz4wJQX-yZV06O2/view?usp=sharing].
